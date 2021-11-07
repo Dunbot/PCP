@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/PCP/static/css/main.620bcf64.chunk.css",
-    "main.js": "/PCP/static/js/main.abcc198b.chunk.js",
-    "main.js.map": "/PCP/static/js/main.abcc198b.chunk.js.map",
-    "runtime-main.js": "/PCP/static/js/runtime-main.3e217600.js",
-    "runtime-main.js.map": "/PCP/static/js/runtime-main.3e217600.js.map",
-    "static/js/2.2195d40a.chunk.js": "/PCP/static/js/2.2195d40a.chunk.js",
-    "static/js/2.2195d40a.chunk.js.map": "/PCP/static/js/2.2195d40a.chunk.js.map",
+    "main.css": "/PCP/static/css/main.5a08bbc9.chunk.css",
+    "main.js": "/PCP/static/js/main.9cb2e70a.chunk.js",
+    "main.js.map": "/PCP/static/js/main.9cb2e70a.chunk.js.map",
+    "runtime-main.js": "/PCP/static/js/runtime-main.19f2e370.js",
+    "runtime-main.js.map": "/PCP/static/js/runtime-main.19f2e370.js.map",
+    "static/js/2.6f2dff97.chunk.js": "/PCP/static/js/2.6f2dff97.chunk.js",
+    "static/js/2.6f2dff97.chunk.js.map": "/PCP/static/js/2.6f2dff97.chunk.js.map",
     "index.html": "/PCP/index.html",
-    "static/css/main.620bcf64.chunk.css.map": "/PCP/static/css/main.620bcf64.chunk.css.map",
-    "static/js/2.2195d40a.chunk.js.LICENSE.txt": "/PCP/static/js/2.2195d40a.chunk.js.LICENSE.txt",
+    "static/css/main.5a08bbc9.chunk.css.map": "/PCP/static/css/main.5a08bbc9.chunk.css.map",
+    "static/js/2.6f2dff97.chunk.js.LICENSE.txt": "/PCP/static/js/2.6f2dff97.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PCP/static/media/background-2.f27c6e7b.jpg",
     "static/media/Hsection.css": "/PCP/static/media/fondo.3f231efa.jpg",
     "static/media/img-1.jpg": "/PCP/static/media/img-1.bead53ed.jpg",
     "static/media/img-2.jpg": "/PCP/static/media/img-2.3215674b.jpg",
     "static/media/img-3.jpg": "/PCP/static/media/img-3.1dd54ac5.jpg",
     "static/media/img-4.jpg": "/PCP/static/media/img-4.279ef7cd.jpg",
-    "static/media/App.css": "/PCP/static/media/img-6.0f220419.jpg"
+    "static/media/services-1.jpeg": "/PCP/static/media/services-1.71347704.jpeg",
+    "static/media/services-2.jpeg": "/PCP/static/media/services-2.76958e0f.jpeg",
+    "static/media/services-3.jpeg": "/PCP/static/media/services-3.cf4b27cd.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e217600.js",
-    "static/js/2.2195d40a.chunk.js",
-    "static/css/main.620bcf64.chunk.css",
-    "static/js/main.abcc198b.chunk.js"
+    "static/js/runtime-main.19f2e370.js",
+    "static/js/2.6f2dff97.chunk.js",
+    "static/css/main.5a08bbc9.chunk.css",
+    "static/js/main.9cb2e70a.chunk.js"
   ]
 }
